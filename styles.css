@@ -1,0 +1,81 @@
+h1 {
+    text-align: center;
+    color: rgb(223, 31, 31);
+    font-size: 70px;
+    font-family: "Sofia", sans-serif;
+    text-shadow: 3px 3px 3px #ababab;
+}
+
+#photos {
+    align-items: center;
+}
+
+.entirePage{
+
+    background-color: rgb(60, 101, 20);
+}
+
+h2 {
+    text-align: center;
+    color: rgb(13, 0, 255);
+    font-size: 70px;
+    font-family: "Times", sans-serif;
+    text-shadow: 1px 1px 1px #fbfbfb;
+}
+
+h2.myFeed {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-family: "Times", sans-serif;
+}
+
+h2.myFeed2 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: "Times", sans-serif;
+}
+
+h2.Specials {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 85px;
+    font-family: "Times", sans-serif;
+}
+h2.happyHour {
+    text-align: center;
+    color: rgb(169, 21, 167);
+    font-size: 85px;
+    font-family: "Times", sans-serif;
+}
+h3 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 70px;
+    font-family: "Times", sans-serif;
+    text-shadow: 1px 1px 1px #ffffff;
+}
+
+p {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-family: "Times", sans-serif;
+    text-shadow:1px 1px 1px #ffffff;
+}
+
+a{
+    text-align: center;
+        color: rgb(223, 31, 31);
+        font-size: 85px;
+        font-family: "Times", sans-serif;
+        text-shadow: 1px 1px 1px #7d0d69;
+    }
+
+
+    #top{
+
+        background-color: rgb(122, 117, 117);
+        font-size: 30px;
+    }

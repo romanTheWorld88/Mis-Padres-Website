@@ -14,7 +14,7 @@ h1.two {
     text-shadow: 3px 3px 3px #110808;
 }
 
-.font{
+.font {
     color: rgb(223, 31, 31);
     font-family: 'Kaushan Script', cursive;
     text-shadow: 2px 0px 0px #11080e;
@@ -22,7 +22,7 @@ h1.two {
     font-size: 30px;
 }
 
-.fontNot{
+.fontNot {
     color: rgb(0, 0, 0);
     font-family: 'Kaushan Script', cursive;
     text-shadow: 1px 1px 1px rgb(18, 12, 124);
@@ -30,6 +30,7 @@ h1.two {
     font-size: 30px;
 
 }
+
 #photos {
     align-items: center;
 }
@@ -48,7 +49,7 @@ h2 {
 
 }
 
-h2.stylish{
+h2.stylish {
     color: rgb(0, 0, 0);
     font-family: 'Kaushan Script', cursive;
     text-shadow: 1px 1px 1px rgb(18, 12, 124);
@@ -79,6 +80,15 @@ h2.myFeed {
 
 
 h2.myFeed2 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+p.myFeed2 {
+
     text-align: center;
     color: rgb(255, 255, 255);
     font-size: 25px;
@@ -133,6 +143,8 @@ a {
     background-color: rgb(122, 117, 117);
     font-size: 30px;
     font-family: 'Kaushan Script', cursive;
+    min-height: auto;
+    min-width: auto;
 
 }
 
@@ -148,8 +160,12 @@ a {
     object-fit: cover;
 }
 
-a.middle{
+a.middle {
     text-align: center;
     font-family: 'Kaushan Script', cursive;
 
+}
+
+container {
+    min-height: 100%;
 }

@@ -5,9 +5,7 @@ h1 {
     font-family: "Sofia", sans-serif;
     text-shadow: 3px 3px 3px #110808;
 }
-.myBack{
-    background-image: url('fire.png');
-}
+
 #photos {
     align-items: center;
 }
@@ -46,14 +44,14 @@ h2.myFeed2 {
 
 h2.Specials {
     text-align: center;
-    color: rgb(255, 255, 255);
+    color: rgba(18, 12, 124);
     font-size: 85px;
     font-family: "Times", sans-serif;
 }
 
 h2.happyHour {
     text-align: center;
-    color: rgb(169, 21, 167);
+    color: rgb(211, 113, 209);
     font-size: 85px;
     font-family: "Times", sans-serif;
 }

@@ -150,7 +150,7 @@ a {
 
 .card-img-top {
     width: 100%;
-    height: 15vw;
+    height: 30vw;
     object-fit: cover;
 }
 
@@ -175,3 +175,17 @@ img {
     max-height: 100%;
     height: auto;
   }
+
+
+  .card-text {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 21px;
+  /* Additional styling properties */
+  /* color: #333; */
+  /* line-height: 1.5; */
+}
+
+html{
+    background-color: rgb(122, 117, 117);
+}

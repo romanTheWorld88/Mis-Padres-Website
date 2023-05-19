@@ -14,12 +14,20 @@ h1.two {
     text-shadow: 3px 3px 3px #110808;
 }
 
+h1.specials {
+    text-align: center;
+    color: rgb(18, 12, 124);
+    font-size: 125px;
+    font-family: 'Kaushan Script', cursive;
+    text-shadow: 3px 3px 3px #110808;
+}
+
 .font {
-    color: rgb(223, 31, 31);
+    color: rgb(18, 12, 124);
     font-family: 'Kaushan Script', cursive;
     text-shadow: 2px 0px 0px #11080e;
 
-    font-size: 30px;
+    font-size: 55px;
 }
 
 .fontNot {
@@ -27,7 +35,7 @@ h1.two {
     font-family: 'Kaushan Script', cursive;
     text-shadow: 1px 1px 1px rgb(18, 12, 124);
 
-    font-size: 30px;
+    font-size: 40px;
 
 }
 
@@ -83,6 +91,15 @@ h2.myFeed2 {
     text-align: center;
     color: rgb(255, 255, 255);
     font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+h2.myFeed3 {
+    text-align: center;
+    color: rgb(18, 12, 124);
+    font-size: 40px;
     font-family: 'Roboto', sans-serif;
 
 }
@@ -274,4 +291,8 @@ html{
     font-weight: bold;
     text-align: center;
 
+  }
+
+  div.grillBackground{
+    background-image: 'fire.png';
   }

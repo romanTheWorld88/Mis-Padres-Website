@@ -97,6 +97,7 @@ h2.myFeed2 {
     font-size: 55px;
     font-family: 'Roboto', sans-serif;
     text-shadow: 3px 3px 3px #110808;
+    
 
 
 }
@@ -104,10 +105,14 @@ h2.myFeed2 {
 
 h2.myFeed3 {
     text-align: center;
-    color: rgb(18, 31, 216);
+    color: rgb(211, 113, 209);
     font-size: 65px;
     font-family: 'Roboto', sans-serif;
     text-shadow: 3px 3px 3px #110808;
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+    text-underline-position: under;
+
 
 
 }
@@ -303,6 +308,7 @@ html{
     text-shadow: 1px 1px 1px #000000;
     font-weight: bold;
     text-align: center;
+    
 
   }
 

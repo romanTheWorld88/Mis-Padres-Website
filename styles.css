@@ -9,10 +9,11 @@ h1 {
 h1.two {
     text-align: center;
     color: rgb(223, 31, 31);
-    font-size: 90px;
+    font-size: 120px;
     font-family: 'Kaushan Script', cursive;
     text-shadow: 3px 3px 3px #110808;
 }
+
 
 h1.specials {
     text-align: center;
@@ -45,7 +46,8 @@ h1.specials {
 
 .entirePage {
 
-    background-color: rgb(60, 101, 20);
+  background-image: url("cactis2.avif");
+  background-size: contain;
 }
 
 h2 {
@@ -58,9 +60,9 @@ h2 {
 }
 
 h2.stylish {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-family: 'Kaushan Script', cursive;
-    text-shadow: 1px 1px 1px rgb(18, 12, 124);
+    text-shadow: 1px 1px 1px rgb(211, 113, 209);
 
     font-size: 65px;
 
@@ -84,23 +86,29 @@ h2.myFeed {
     color: rgb(255, 255, 255);
     font-size: 40px;
     font-family: 'Roboto', sans-serif;
+    text-shadow: 3px 3px 3px #110808;
+
 }
 
 
 h2.myFeed2 {
     text-align: center;
-    color: rgb(255, 255, 255);
-    font-size: 25px;
+    color: rgb(211, 113, 209);
+    font-size: 55px;
     font-family: 'Roboto', sans-serif;
+    text-shadow: 3px 3px 3px #110808;
+
 
 }
 
 
 h2.myFeed3 {
     text-align: center;
-    color: rgb(18, 12, 124);
-    font-size: 40px;
+    color: rgb(18, 31, 216);
+    font-size: 65px;
     font-family: 'Roboto', sans-serif;
+    text-shadow: 3px 3px 3px #110808;
+
 
 }
 
@@ -157,12 +165,17 @@ a {
 
 #top {
 
-    background-color: rgb(122, 117, 117);
-    font-size: 30px;
+  background-color: rgb(18, 12, 124);
+   font-size: 30px;
     font-family: 'Kaushan Script', cursive;
     min-height: auto;
     min-width: auto;
 
+}
+
+h2.top{
+  font-size: 30px;
+  color:rgb(223, 31, 31)
 }
 
 .card-img-top {
@@ -224,7 +237,7 @@ html{
   }
   
   .order-button:hover {
-    background-color: #91139c;
+    background-color: rgb(211, 113, 209);
   }
 
   .button-wrapper {
@@ -295,4 +308,5 @@ html{
 
   div.grillBackground{
     background-image: 'fire.png';
+    background-size: contain;
   }

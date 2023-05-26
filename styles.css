@@ -46,7 +46,7 @@ h1.specials {
 
 .entirePage {
 
-  background-image: url("cactis2.avif");
+  background-image: url("photos/cactis2.avif");
   background-size: contain;
 }
 
@@ -350,7 +350,7 @@ html {
 }
 
 div.grillBackground {
-  background-image: 'fire.png';
+  background-image: 'photos/fire.png';
   background-size: contain;
 }
 

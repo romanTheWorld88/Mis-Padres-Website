@@ -52,7 +52,7 @@ h1.specials {
 
 .entirePage2 {
 
-  background: #3e7123;
+  background: #050803;
   box-shadow: inset 11px 11px 22px #223e13,
     inset -11px -11px 22px #5aa433;
 }
@@ -141,7 +141,7 @@ h2.myFeed3Black {
 }
 
 .newBackground {
-  background-color: green;
+  background-image: url("newPhotos/maguey.jpg");
 }
 
 p.myFeed2 {

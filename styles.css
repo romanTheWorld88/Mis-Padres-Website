@@ -19,13 +19,13 @@ h1.specials {
   text-align: center;
   color: rgb(18, 12, 124);
   font-size: 125px;
-  font-family: 'Kaushan Script', cursive;
+  font-family: "Roboto Slab", serif;
   text-shadow: 3px 3px 3px #110808;
 }
 
 .font {
   color: rgb(88, 86, 126);
-  font-family: 'Kaushan Script', cursive;
+  font-family: "Roboto Slab", serif;
   text-shadow: 2px 0px 0px #11080e;
 
   font-size: 35px;
@@ -68,7 +68,7 @@ h2 {
 
 h2.stylish {
   color: rgb(0, 0, 0);
-  font-family: 'Kaushan Script', cursive;
+  font-family: "Roboto Slab", serif;
   text-shadow: 1px 1px 1px rgb(0, 0, 0);
 
   font-size: 65px;
@@ -79,7 +79,7 @@ h2.two {
   text-align: center;
   color: rgb(255, 255, 255);
   font-size: 90px;
-  font-family: 'Kaushan Script', cursive;
+  font-family: "Roboto Slab", serif;
   text-shadow: 3px 3px 3px #110808;
 }
 
@@ -92,7 +92,7 @@ h2.myFeed {
   text-align: center;
   color: rgb(255, 255, 255);
   font-size: 40px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto Slab", serif;
   text-shadow: 3px 3px 3px #110808;
 
 }

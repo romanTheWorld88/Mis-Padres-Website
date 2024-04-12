@@ -133,7 +133,7 @@ h2.myFeed3Black {
   text-align: center;
   color: rgb(0, 0, 0);
   font-size: 65px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto Slab", serif;
   text-decoration: underline;
 
 
@@ -149,14 +149,14 @@ p.myFeed2 {
   text-align: center;
   color: rgb(255, 255, 255);
   font-size: 25px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto Slab", serif;
 
 }
 
 h2.Specials {
   text-align: center;
   color: rgba(18, 12, 124);
-  font-family: 'Kaushan Script', cursive;
+  font-family: "Roboto Slab", serif;
   text-shadow: 1px 1px 1px rgb(18, 12, 124);
   font-size: 65px;
 }
@@ -198,7 +198,7 @@ a {
 
   background-color: #60DF41;
   font-size: 30px;
-  font-family: 'Kaushan Script', cursive;
+  font-family: "Roboto Slab", serif;
   min-height: auto;
   min-width: auto;
 
@@ -223,7 +223,7 @@ h2.top {
 
 a.middle {
   text-align: center;
-  font-family: 'Kaushan Script', cursive;
+  font-family: "Roboto Slab", serif;
 
 }
 
@@ -257,7 +257,7 @@ html {
 .order-button {
   display: inline-block;
   padding: 12px 24px;
-  font-family: 'Kaushan Script', cursive;
+  font-family: "Roboto Slab", serif;
   font-weight: bold;
   font-size: 55px;
   text-decoration: none;
@@ -280,7 +280,7 @@ html {
 }
 
 #myBack {
-  background-color: green;
+  background-color: rgb(19, 177, 19);
 }
 
 .hours-container {
@@ -342,7 +342,7 @@ html {
 .hours-header {
   color: rgb(0, 0, 0);
   font-size: 75px;
-  font-family: 'Kaushan Script', cursive;
+  font-family: "Roboto Slab", serif;
   text-shadow: 1px 1px 1px #000000;
   font-weight: bold;
   text-align: center;
@@ -364,7 +364,7 @@ div.grillBackground {
 #navHead {
   color: rgb(255, 255, 255);
   font-size: 35px;
-  font-family: 'Kaushan Script', cursive;
+  font-family: "Roboto Slab", serif;
   text-shadow: 1px 1px 1px #000000;
   font-weight: bold;
   text-align: center;
@@ -373,7 +373,7 @@ div.grillBackground {
 #navHead1 {
   color: rgb(223, 14, 14);
   font-size: 35px;
-  font-family: 'Kaushan Script', cursive;
+  font-family: "Roboto Slab", serif;
   text-shadow: 1px 1px 1px #000000;
   font-weight: bold;
   text-align: center;

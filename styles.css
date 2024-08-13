@@ -46,8 +46,10 @@ h1.specials {
 
 .entirePage {
 
-  background-image: url("newPhotos/maguey.jpg");
+  background-image: url("newPhotos/BrazilCORRECT.jpg");
   background-size: contain;
+  padding-top: 100px; /* Adjust the value as needed */
+
 }
 
 .entirePage2 {
@@ -147,7 +149,7 @@ h2.myFeed3Black {
 }
 
 .newBackground {
-  background-image: url("newPhotos/maguey.jpg");
+  background-image: url("newPhotos/BrazilBackground.jpg");
 }
 
 p.myFeed2 {
@@ -307,7 +309,7 @@ html {
 }
 
 #myBack {
-  background-image: url("newPhotos/maguey.jpg");
+  background-image: url("newPhotos/BrazilCORRECT.jpg");
 }
 
 .hours-container {

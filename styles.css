@@ -147,6 +147,21 @@ h2.myFeed3Black {
 
 
 }
+.containerNovember {
+  display: flex;
+  flex-direction: column; /* Stack items vertically */
+  justify-content: center; /* Center items vertically */
+  align-items: center; /* Center items horizontally */
+  width: 30%; /* Set the width of the container (you can adjust as needed) */
+  max-width: 500px; /* Max width to ensure the container doesn’t stretch too wide */
+  background-color: black; /* Set background color to black (the rectangle) */
+  color: white; /* Set text color to white for contrast */
+  text-align: center; /* Center the text horizontally */
+  padding: 20px; /* Padding inside the black rectangle for spacing */
+  border-radius: 10px; /* Optional: Rounded corners for the rectangle */
+  margin: 0 auto; /* Centers the container horizontally on the page */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Shadow for a subtle 3D effect */
+}
 
 .newBackground {
   background-image: url("newPhotos/BrazilBackground.jpg");
@@ -311,13 +326,17 @@ html {
 #myBack {
   background-image: url("newPhotos/BrazilCORRECT.jpg");
 }
-
+h6 {
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  font-size: 64px;
+  color: rgb(255, 233, 233);
+}
 .hours-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 20px;
-  background-image: url("newPhotos/mexicoPyramid.jpg");
+  background-color: black;
   background-position: center; /* Adjust to display the lower part */
   border-radius: 12px;
   font-family: "Roboto Slab", serif;
@@ -424,6 +443,17 @@ div.grillBackground {
   text-align: center;
 }
 
+#menuTopStyle {
+  color: rgb(255, 255, 255);
+  font-size: 44px;
+  font-family: "Roboto Slab", serif;
+  text-shadow: 1px 1px 1px #000000;
+  font-weight: bold;
+  text-align: center;
+
+
+
+}
 #navHead1 {
   color: rgb(223, 14, 14);
   font-size: 25px;
